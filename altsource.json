@@ -1,8 +1,8 @@
 {
-  "name": "TabiPlot iOS",
-  "subtitle": "Windows-only CI builds for TabiPlot iOS",
-  "description": "Unsigned TabiPlot iOS builds distributed for SideStore/AltStore testing.",
-  "website": "https://github.com/y-aplus/TravelCancas",
+  "name": "YHide iOS Apps",
+  "subtitle": "Windows-only CI builds for SideStore/AltStore",
+  "description": "Unsigned iOS builds distributed for SideStore/AltStore testing.",
+  "website": "https://github.com/y-aplus/ios-app-dist",
   "tintColor": "#2B3E63",
   "apps": [
     {
@@ -11,16 +11,16 @@
       "developerName": "YHide",
       "subtitle": "Travel timeline companion for TabiPlot",
       "localizedDescription": "iPhone companion app for viewing travel plans, making lightweight edits, launching map apps, and testing the TabiPlot widget.",
-      "iconURL": "https://raw.githubusercontent.com/y-aplus/tabiplot-ios-dist/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/apps/tabiplot/icon.png",
       "tintColor": "#2B3E63",
       "category": "utilities",
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-04-16T01:15:31Z",
-          "localizedDescription": "Automated CI build from ${GITHUB_SHA}.",
-          "downloadURL": "https://github.com/y-aplus/tabiplot-ios-dist/releases/download/latest/TabiPlotIOS.ipa",
+          "date": "2026-04-23T15:06:11Z",
+          "localizedDescription": "Automated CI build from 09a01d89acd3c51903cdbfc2b0eb6235222f33c6.",
+          "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiplot-ios-latest/TabiPlotIOS.ipa",
           "size": 1076686,
           "minOSVersion": "17.0"
         }
