@@ -18,10 +18,10 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-05-05T08:01:31Z",
-          "localizedDescription": "Automated CI build from b5fc0a93f887fa5c6467c519d17e77d425f78102.",
+          "date": "2026-06-08T00:12:05Z",
+          "localizedDescription": "Automated CI build from 061a6f0a781722bd72be5fc8d5028cf5aaeb45cc.",
           "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiscore-ios-latest/TabiScoreIOS.ipa",
-          "size": 1138548,
+          "size": 1140059,
           "minOSVersion": "17.0"
         }
       ],
