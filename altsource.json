@@ -43,12 +43,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-06-24T04:47:57.424Z",
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-06-24T04:53:43.748Z",
           "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/zaiko-ios-latest/ZaikoApp.ipa",
           "localizedDescription": "在庫品目の残量、残日数、消費速度を管理し、しきい値以内になった品目をローカル通知で知らせます。既存PWAのJSONバックアップを読み込めます。",
-          "size": 1403991
+          "size": 1403992
         }
       ]
     }
